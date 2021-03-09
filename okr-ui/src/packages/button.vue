@@ -10,3 +10,13 @@ export default {
 	components: {}
 }
 </script>
+<style>
+button {
+	width: 100px;
+	height: 30px;
+}
+button:hover {
+	background-color: blue;
+	color: white;
+}
+</style>
