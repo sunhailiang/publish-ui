@@ -1,0 +1,22 @@
+{
+  "name": "doc",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "dependencies": {
+    "core-js": "^2.6.12",
+    "element-ui": "^2.15.1",
+    "highlight.js": "^10.6.0",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.1"
+  }
+}
